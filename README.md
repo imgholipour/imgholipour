@@ -19,11 +19,12 @@ With a solid foundation in Antenna/RF Design, I possess expert proficiency in ut
 <img align="left" alt="arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <img align="left" alt="gitlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="avr" width="30px" style="padding-right:10px;" src="https://github.com/imgholipour/devicon/blob/master/icons/avr/Avr_logo.png" />
+<img align="left" alt="cst-studio" width="30px" style="padding-right:10px;" src="https://github.com/imgholipour/devicon/blob/master/icons/cst-studio/cst.png" />
 <img align="left" alt="raspberrypi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="opencv" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
 <img align="left" alt="altium-designer" width="30px" style="padding-right:10px;" src="https://github.com/imgholipour/devicon/blob/master/icons/altium-designer/Simpleicons-Team-Simple-Altiumdesigner.512.png" />
-<img align="left" alt="avr" width="30px" style="padding-right:10px;" src="https://github.com/imgholipour/devicon/blob/master/icons/avr/Avr_logo.png" />
-<img align="left" alt="cst-studio" width="30px" style="padding-right:10px;" src="https://github.com/imgholipour/devicon/blob/master/icons/cst-studio/cst.png" />
+
 
 <br />
 
